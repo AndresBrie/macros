@@ -23,4 +23,4 @@ run("Multiply...", "value=255");
 run("Invert");
 
 //overlay
-run("Add Image...", "image="+color_name+" x=0 y=0 opacity=30");
+run("Add Image...", "image="+color_name+" x=0 y=0 opacity=50");
